@@ -16,3 +16,7 @@
 + 欧姆龙 Fins（TODO）
 + 楼宇 Bacnet（TODO）
 
+支持数据存储数据库
+-------
++ MongoDB
++ InfluxDB
