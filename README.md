@@ -20,3 +20,14 @@
 -------
 + MongoDB
 + InfluxDB
+
+
+使用说明
+--------
++ 安装node js 最新版本 > 8以上
++ 使用opd da client的必须在windons上运行
+
+安装  
+ npm install （不要使用cnpm安装）  
+运行  
+node index.js  
